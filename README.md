@@ -1,0 +1,1 @@
+This repository contains the bare minimum example of a web page accessing a resource from a different origin using the CORS protocol. The resource is a web service build with Express and it is loaded with the fetch function.
